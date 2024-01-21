@@ -5,6 +5,9 @@ class HellITIPrinter {
     printHelloWorld() {
       console.log("Hello, ITI!");
     }
+    printHelloGIT() {
+      console.log("Hello, GIT!");
+    }
   }
   
   
